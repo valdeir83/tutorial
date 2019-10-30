@@ -1,7 +1,27 @@
-http://load.kudaplay.tv/aovivo/FHD_BOOMERANG/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312 
-https://i.ibb.co/PhfqYRv/afazenda11.png
-https://i.ibb.co/R0QGz7q/discoverykidshd.png
-https://i.ibb.co/0MBKmFY/disneyjuniorb.png
-https://i.ibb.co/sPwqG58/foxsports.png
-https://i.ibb.co/mtBgHht/foxsports2.png
-http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312
+<a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/HD_A_FAZENDA_ALTER/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="" data-nome="A Fazenda 11 [Alter]"><img width="100" class="mr-1" src="https://i.ibb.co/PhfqYRv/afazenda11.png"><br>A Fazenda 11 [Alter]
+                                                </a>
+<a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/SD_BAND_SPORTS/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="" data-nome="Band Sports"><img width="100" class="mr-1" src="https://i.ibb.co/t8H0fk0/bandsports.png"><br>Band Sports
+                                                </a>
+<a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/FHD_BOOMERANG/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="" data-nome="Boomerang FHD"><img width="100" class="mr-1" src="https://i.ibb.co/4WsFbpW/boomerangb.png"><br>Boomerang FHD
+                                                </a>
+<a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_KIDS/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="" data-nome="Discovery Kids FHD"><img width="100" class="mr-1" src="https://i.ibb.co/R0QGz7q/discoverykidshd.png"><br>Discovery Kids FHD
+                                                </a>
+<a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="" data-nome="Disney JR HD"><img width="100" class="mr-1" src="https://i.ibb.co/0MBKmFY/disneyjuniorb.png"><br>Disney JR HD
+                                                </a>
+<a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="" data-nome="Fox Sports"><img width="100" class="mr-1" src="https://i.ibb.co/sPwqG58/foxsports.png"><br>Fox Sports
+                                                </a>
+<a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="" data-nome="Fox Sports 2"><img width="100" class="mr-1" src="https://i.ibb.co/mtBgHht/foxsports2.png"><br>Fox Sports 2
+                                                </a>
+<div class="filter categoria-10 col-md-3 text-center mb-10 canal" data-channel="Globo TV TEM SOROCABA">
+                                                <a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_TEM_SOROCABA/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="" data-nome="Globo TV TEM SOROCABA"><img width="100" class="mr-1" src="https://i.ibb.co/ngpbwgS/tvtem.png"><br>Globo TV TEM SOROCABA
+                                                </a>
+                                            </div>
+<div class="filter categoria-10 col-md-3 text-center mb-10 canal" data-channel="Novo Tempo">
+                                                <a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/SD_NOVO_TEMPO/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="Ã?? uma rede de televisÃ? £o brasileira com sede em JacareÃ? &shy;, no estado de SÃ? £o Paulo.A emissora surgiu em 1996, pelo Sistema Adventista de ComunicaÃ? §Ã? £o, que pertence Ã? &nbsp; Igreja Adventista do SÃ? ©timo Dia, Nova Friburgo, no Estado do Rio de Janeiro, inicialmente como emissora de TV local com o nome de TV ADSAT (TelevisÃ? £o adventista satÃ? ©lite)." data-nome="Novo Tempo"><img width="100" class="mr-1" src="https://i.ibb.co/3cZwZ9m/tvnovotempo.png"><br>Novo Tempo
+                                                </a>
+                                            </div>
+<div class="filter categoria-1 col-md-3 text-center mb-10 canal" data-channel="Premiere Clubes FHD">
+                                                <a class="list-group-item abre-video bg-gray-lighter" href="#" data-video="http://load.kudaplay.tv/aovivo/FHD_PFC_CLUBES/video.m3u8?token=c0de809f2b2aa308ff4f055ebcf24312" data-descricao="" data-nome="Premiere Clubes FHD"><img width="100" class="mr-1" src="https://i.ibb.co/nb8dcZZ/premiere.png"><br>Premiere Clubes FHD
+                                                </a>
+                                            </div>
+
